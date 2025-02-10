@@ -21,7 +21,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/cricksion.git
+   git clone https://github.com/changrtanay/cricksion.git
    ```
 2. **Open the project**:
    Navigate to the project directory and open the `index.html` file in your web browser.
