@@ -4,6 +4,11 @@
 
 **Cricksion** is a web application that displays the list of ongoing cricket matches in real-time. The app fetches data from a cricket API to show information such as the match name and its status (e.g., Live, Completed). It allows users to easily check the current status of cricket matches happening across various leagues and tournaments.
 
+## Screenshot
+Here is a screenshot from the live demo:
+
+![Screenshot](/screenshot.png)
+
 ## Features
 
 - Display ongoing cricket matches.
